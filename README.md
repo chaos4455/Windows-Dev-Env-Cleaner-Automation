@@ -38,7 +38,9 @@ Este script automatiza a limpeza de caches do Windows e do seu ambiente de desen
 
 `Windows Update`, `DISM`, `SFC`
 
-Este script foi criado por **Elias Andrade** ([@chaos4455](https://github.com/chaos4455)) para automatizar a limpeza de caches do Windows e do seu ambiente de desenvolvimento, incluindo ferramentas de Machine Learning. Utilize com cautela e certifique-se de entender cada comando antes de executar.
+Este script foi criado por mim pra uso pessoal mas acho legal compartilhar com quem também puder se beneficiar dele, use ele para para automatizar a limpeza de caches do Windows e do seu ambiente de desenvolvimento, incluindo ferramentas de Machine Learning. Utilize com cautela e certifique-se de entender cada comando antes de executar. Ou apenas cole e cole no cmd como administrador.
+
+([@chaos4455](https://github.com/chaos4455)) 
 
 ### ⚠️ Disclaimer Importante ⚠️
 
