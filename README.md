@@ -1,62 +1,44 @@
 ## 🧹 Limpeza Profunda do Windows e Ambiente de Dev 🚀
 
-<div style="background-color: #e0f7fa; border-radius: 10px; padding: 15px;">
+## 🧹 Limpeza Profunda do Windows e Ambiente de Dev 🚀
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+Este script automatiza a limpeza de caches do Windows e do seu ambiente de desenvolvimento.
 
-    <div style="flex: 1; min-width: 200px; margin: 10px; background-color: #c8e6c9; border-radius: 8px; padding: 10px; text-align: center;">
-     <h4 style="margin-bottom: 5px;">🪟 Limpeza do Windows</h4>
-     <p>
-        <img src="https://img.shields.io/badge/Temp-🗑️-blueviolet" alt="Temp" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/Prefetch-🧹-blue" alt="Prefetch" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/LocalTemp-📁-blue" alt="LocalTemp" style="margin: 2px;" />
-     </p>
-      <p>
-       <code>%SystemRoot%\Temp\*</code>, <code>%SystemRoot%\Prefetch\*</code>, <code>%LocalAppData%\Temp\*</code>
-      </p>
-    </div>
+### ⚙️ Áreas de Limpeza
 
+#### 🪟 Limpeza do Windows
+    
+![Temp](https://img.shields.io/badge/Temp-🗑️-blueviolet)
+![Prefetch](https://img.shields.io/badge/Prefetch-🧹-blue)
+![LocalTemp](https://img.shields.io/badge/LocalTemp-📁-blue)
+    
+`%SystemRoot%\Temp\*`, `%SystemRoot%\Prefetch\*`, `%LocalAppData%\Temp\*`
 
-    <div style="flex: 1; min-width: 200px; margin: 10px; background-color: #c8e6c9; border-radius: 8px; padding: 10px; text-align: center;">
-     <h4 style="margin-bottom: 5px;">👨‍💻 Ambiente de Desenvolvimento</h4>
-       <p>
-          <img src="https://img.shields.io/badge/VSCode--Cache-🚀-green" alt="VSCode Cache" style="margin: 2px;" />
-          <img src="https://img.shields.io/badge/Python--Pip-🐍-green" alt="Python Pip" style="margin: 2px;" />
-          <img src="https://img.shields.io/badge/Node--npm-📦-green" alt="Node npm" style="margin: 2px;" />
-         <img src="https://img.shields.io/badge/Git--Cache-💾-green" alt="Git Cache" style="margin: 2px;" />
-       </p>
-        <p>
-           <code>VS Code</code>, <code>pip</code>, <code>npm</code>, <code>yarn</code>, <code>Git</code>
-        </p>
-     </div>
+#### 👨‍💻 Ambiente de Desenvolvimento
 
-    <div style="flex: 1; min-width: 200px; margin: 10px; background-color: #c8e6c9; border-radius: 8px; padding: 10px; text-align: center;">
-     <h4 style="margin-bottom: 5px;">🧠 Machine Learning</h4>
-      <p>
-          <img src="https://img.shields.io/badge/HuggingFace-🤗-lightcoral" alt="HuggingFace" style="margin: 2px;" />
-         <img src="https://img.shields.io/badge/TensorFlow-🐙-lightcoral" alt="TensorFlow" style="margin: 2px;" />
-         <img src="https://img.shields.io/badge/Keras-🧠-lightcoral" alt="Keras" style="margin: 2px;" />
-        <img src="https://img.shields.io/badge/PyTorch-🔥-lightcoral" alt="PyTorch" style="margin: 2px;" />
-      <img src="https://img.shields.io/badge/conda-⚙️-lightcoral" alt="Conda" style="margin: 2px;" />
-       </p>
-        <p>
-           <code>Hugging Face</code>, <code>TensorFlow</code>, <code>Keras</code>, <code>PyTorch</code>, <code>Conda</code>
-        </p>
-    </div>
+![VSCode Cache](https://img.shields.io/badge/VSCode--Cache-🚀-green)
+![Python Pip](https://img.shields.io/badge/Python--Pip-🐍-green)
+![Node npm](https://img.shields.io/badge/Node--npm-📦-green)
+![Git Cache](https://img.shields.io/badge/Git--Cache-💾-green)
 
-    <div style="flex: 1; min-width: 200px; margin: 10px; background-color: #c8e6c9; border-radius: 8px; padding: 10px; text-align: center;">
-       <h4 style="margin-bottom: 5px;">🔄 Atualizações e Sistema</h4>
-        <p>
-           <img src="https://img.shields.io/badge/Windows--Update-🔄-cornflowerblue" alt="Windows Update" style="margin: 2px;" />
-            <img src="https://img.shields.io/badge/System--Cleanup-🧹-cornflowerblue" alt="System Cleanup" style="margin: 2px;" />
-        </p>
-        <p>
-         <code>Windows Update</code>, <code>DISM</code>, <code>SFC</code>
-        </p>
-      </div>
+`VS Code`, `pip`, `npm`, `yarn`, `Git`
 
-  </div>
-</div>
+#### 🧠 Machine Learning
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-🤗-lightcoral)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-🐙-lightcoral)
+![Keras](https://img.shields.io/badge/Keras-🧠-lightcoral)
+![PyTorch](https://img.shields.io/badge/PyTorch-🔥-lightcoral)
+![Conda](https://img.shields.io/badge/conda-⚙️-lightcoral)
+
+`Hugging Face`, `TensorFlow`, `Keras`, `PyTorch`, `Conda`
+
+#### 🔄 Atualizações e Sistema
+
+![Windows Update](https://img.shields.io/badge/Windows--Update-🔄-cornflowerblue)
+![System Cleanup](https://img.shields.io/badge/System--Cleanup-🧹-cornflowerblue)
+
+`Windows Update`, `DISM`, `SFC`
 
 Este script foi criado por **Elias Andrade** ([@chaos4455](https://github.com/chaos4455)) para automatizar a limpeza de caches do Windows e do seu ambiente de desenvolvimento, incluindo ferramentas de Machine Learning. Utilize com cautela e certifique-se de entender cada comando antes de executar.
 
