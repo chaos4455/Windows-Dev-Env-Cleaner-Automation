@@ -1,7 +1,5 @@
 ## 🧹 Limpeza Profunda do Windows e Ambiente de Dev 🚀
 
-## 🧹 Limpeza Profunda do Windows e Ambiente de Dev 🚀
-
 Este script automatiza a limpeza de caches do Windows e do seu ambiente de desenvolvimento.
 
 ### ⚙️ Áreas de Limpeza
